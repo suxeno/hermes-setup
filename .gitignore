@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.key
+.env
+.env.*
+*.tar.gz
+*.tar.gz.gpg
+!backup/setup.tar.gz.gpg
